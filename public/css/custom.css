@@ -1,0 +1,24 @@
+a{
+    text-decoration: none;
+}
+.footer-logo{
+    max-width: 100px;
+    margin: 0 auto;
+}
+.footer-logo + span{
+    display: block;
+    margin: .5em 0;
+}
+.cwt__footer__company{
+    padding: 0 1em;
+    text-align: center;
+    color: #dfdfdf;
+}
+.cwt__footer__company a{
+    color: #dfdfdf !important;
+    text-transform: uppercase;
+    text-decoration: none;
+}
+.cwt__footer__company a:hover{
+    text-decoration: underline;
+}
